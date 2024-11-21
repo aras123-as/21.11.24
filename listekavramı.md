@@ -1,0 +1,36 @@
+# LİSTE KAVRAMI
+
+Bir çok veriyi kolayca depolayabilmemizi sağlar ve belli kurallaarı vardır.
+
+
+
+
+
+1.BİRDEN FAZLA AYNI VEYATTA FARKLI TÜRDEN VERİYİ DEPOLAYABİLMEMİZİ SAĞLAR.
+
+
+
+
+2.KÖŞELİ PARENTEZ İLE OLUŞTURULUR.
+
+
+
+
+3.VERİLER TANIMLANDIKTAN SONRA LİSTE ELEMANLARI DEĞİŞTİRİLEBİLİR.
+
+
+
+
+
+4.LİİSTEDEKİ VERİLERE ULAŞMAK İÇİN İNDEKS KAVRMI KULLANILIR.
+
+
+
+
+5.LİSTELERDE BAZI İŞLEMLER KULLANILABİLİR.
+
+
+
+
+
+
